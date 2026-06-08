@@ -1,6 +1,11 @@
-title: "Stand-in title"
-author: "Dr Prof James 'JayJay' Author"
-paper_id: 12345678
+title: "Fee Optimality in a Two-Sided Market"
+author: "Sullivan"
 round: 1
-repo: "https://www.github.com/standin"
-dropbox_rel_path: "JPE/Author-12345678/1"
+repo: "https://github.com/JPE-Reproducibility/JPE-Sullivan-20231305"
+paper_id: 20231305
+journal: "JPE"
+paper_slug: "Sullivan-20231305"
+dropbox_rel_path: "JPE/Sullivan-20231305/1"
+package_size_gb: 4.1
+package_max_file_size_gb: 2
+package_max_pkg_size_gb: 10
