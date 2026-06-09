@@ -1,0 +1,11 @@
+Package: EconTools
+Type: Package
+Title: Useful R Functions for Economic Research
+Version: 0.1.0
+Author: Michael Sullivan
+Maintainer: The package maintainer <m.r.sullivan@yale.edu>
+Encoding: UTF-8
+LazyData: true
+Imports:
+    noncensus (>= 0.1),
+    stringi (>= 1.45)

@@ -1,0 +1,15 @@
+Package: FoodDeliveryTools
+Type: Package
+Title: Estimation and Counterfactual Tools for "Fee Optimality in a Two-Sided Market"
+Version: 0.1.0
+Author: Michael R. Sullivan
+Maintainer: Michael R. Sullivan <michael.rlld.sullivan@gmail.com>
+Description: Helper functions for the structural estimation and
+    counterfactual analysis in Sullivan (Journal of Political Economy),
+    "Fee Optimality in a Two-Sided Market". The package gathers the
+    data-preparation, demand-side, restaurant-side, and equilibrium
+    routines used by the analysis scripts elsewhere in this replication
+    archive.
+License: MIT
+Encoding: UTF-8
+LazyData: true
